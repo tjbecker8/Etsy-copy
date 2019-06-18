@@ -19,6 +19,9 @@
 	color: #222222;
 	margin: 0px 0px;
 	font-size: 14px;
+	white-space: nowrap;
+	overflow: hidden;
+	max-width: 163px;
 }
 
 .maker p {
