@@ -1,25 +1,30 @@
-.product img {
+.product {
 	display: inline-block;
-	width: 163px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
 }
 
 /* img {
 	width: 163px;
 	padding-bottom: 0px;
 	margin-bottom: 0px; */
+/* } */
+
+.profile img {
+	width: 163px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
+
 .name p {
-	color: red;
-	margin-top: 0px;
+	color: black;
+	margin: 0px 0px;
 	font-size: 14px;
 }
 
 .maker {
-	color: red;
+	color: black;
 	font-size: 12px;
+	margin: 0px 0px;
 }
 
 .money {
@@ -27,9 +32,19 @@
 	font-weight: bold;
 }
 
+h2 {
+	text-align: center;
+}
+
 .best {
 	font-size: 11px;
+	/* background-color: rgb(218, 221, 103); */
+	/* border-radius: 40px; */
+}
+
+.best span {
 	background-color: rgb(218, 221, 103);
+	padding: 5px;
 	border-radius: 40px;
 }
 
@@ -37,6 +52,7 @@
 	display: inline-block;
 	width: 16px;
 }
+
 
 .rate p {
 	display: inline-block;
