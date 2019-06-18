@@ -16,13 +16,13 @@
 
 
 .name p {
-	color: black;
+	color: #222222;
 	margin: 0px 0px;
 	font-size: 14px;
 }
 
 .maker p {
-	color: black;
+	color: #595959;
 	font-size: 12px;
 	margin: 0px 0px;
 }
@@ -30,7 +30,8 @@
 .money p {
 	font-size: 16px;
 	font-weight: bold;
-	margin: 0px
+	margin: 0px;
+	color: #222222;
 }
 
 h2 {
@@ -57,18 +58,19 @@ h2 {
 .star img {
 	display: inline-block;
 	width: 12px;
-	margin: 0px
+	margin: 0px;
 }
 
 .star p {
 	display: inline-block;
 	font-size: 12px;
 	margin: 0px;
+	color: #595959;
 }
 
 
 
 .rate p {
 	display: inline-block;
-	margin: 0px
+	margin: 0px;
 }
