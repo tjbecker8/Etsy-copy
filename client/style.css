@@ -1,0 +1,43 @@
+.product img {
+	display: inline-block;
+	width: 163px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+/* img {
+	width: 163px;
+	padding-bottom: 0px;
+	margin-bottom: 0px; */
+}
+
+.name p {
+	color: red;
+	margin-top: 0px;
+	font-size: 14px;
+}
+
+.maker {
+	color: red;
+	font-size: 12px;
+}
+
+.money {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.best {
+	font-size: 11px;
+	background-color: rgb(218, 221, 103);
+	border-radius: 40px;
+}
+
+.star img {
+	display: inline-block;
+	width: 16px;
+}
+
+.rate p {
+	display: inline-block;
+}
