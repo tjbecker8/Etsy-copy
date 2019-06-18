@@ -9,7 +9,7 @@
 /* } */
 
 .profile img {
-	width: 185px;
+	width: 200px;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
@@ -21,7 +21,7 @@
 	font-size: 14px;
 	white-space: nowrap;
 	overflow: hidden;
-	max-width: 185px;
+	max-width: 200px;
 }
 
 .maker p {
@@ -30,7 +30,7 @@
 	margin: 0px 0px;
 	white-space: nowrap;
 	overflow: hidden;
-	max-width: 185px;
+	max-width: 200px;
 }
 
 .money p {
