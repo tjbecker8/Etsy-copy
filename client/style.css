@@ -28,6 +28,9 @@
 	color: #595959;
 	font-size: 12px;
 	margin: 0px 0px;
+	white-space: nowrap;
+	overflow: hidden;
+	max-width: 163px;
 }
 
 .money p {
