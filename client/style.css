@@ -88,4 +88,23 @@ h2 {
 .rate p {
 	display: inline-block;
 	margin: 0px;
+	/* left: 50%; */
+}
+
+.circle {
+	display: inline-block;
+	/* width: 100%; */
+	margin: 10 px;
+}
+
+.circle a {
+	color: white;
+
+}
+
+.circle span {
+	background-color: rgb(166, 77, 46);
+	padding: 5px;
+	border-radius: 40px;
+	margin: 5px
 }
