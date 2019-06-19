@@ -35,8 +35,8 @@
 
 .name p {
 	color: black;
-	margin-top: 0px;
-	margin-bottom: 150px;
+	margin: 0px;
+	padding-bottom: 150px;
 	font-size: 24px;
 	white-space: nowrap;
 	overflow: hidden;
@@ -50,14 +50,13 @@
 	margin: 0px;
 	white-space: nowrap;
 	overflow: hidden;
-	overflow: hidden;
 	/* max-width: 50%; */
 }
 
 .maker{
 	display: inline-block;
 	float: left;
-	margin-top: 50px;
+	padding-top: 50px;
 }
 
 .money1 {
@@ -70,7 +69,7 @@
 .money {
 	display: inline-block;
 	float: right;
-	margin-top: 45px;
+	padding-top: 45px;
 
 }
 
