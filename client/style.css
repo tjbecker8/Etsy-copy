@@ -1,13 +1,7 @@
 
-.sidenav {
-	height: 50%;
-	width: 150px;
-	position: fixed;
-	top: 0
-	left: 0;
-	/* background-color: #111111; */
-	overflow-x: hidden;
-	padding-top: 20px
+.contain {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
 }
 
 .sidenav a {
