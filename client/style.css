@@ -1,14 +1,14 @@
 
-.sidenav {
+/* .sidenav {
 	height: 50%;
 	width: 150px;
 	position: fixed;
 	top: 0
 	left: 0;
 	/* background-color: #111111; */
-	overflow-x: hidden;
-	padding-top: 20px
-}
+	/* overflow-x: hidden; */
+	/* padding-top: 20px */
+/* } */
 
 .sidenav a {
 	text-decoration: none;
@@ -20,6 +20,11 @@
 
 .sidenav a:hover {
   color: #111111;
+}
+
+.contain {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
 }
 
 .main {
@@ -66,7 +71,7 @@
 .maker{
 	display: inline-block;
 	float: left;
-	margin-top: 50px;
+	padding-top: 50px;
 }
 
 .money1 {
@@ -79,7 +84,7 @@
 .money {
 	display: inline-block;
 	float: right;
-	margin-top: 45px;
+	padding-top: 45px;
 
 }
 
