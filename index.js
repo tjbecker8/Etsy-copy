@@ -4,13 +4,13 @@ const app = express()
 
 // paths
 
-app.get('/', (req, res) => {
-	res.send('hello')
-})
+// app.get('/', (req, res) => {
+// 	res.send('hello')
+// })
 
 //status
 app.get('/', (req, res) => {
-	res.status(200).send('hello')
+	res.status(200).send('go to /etsy to get site')
 })
 
 //static files
